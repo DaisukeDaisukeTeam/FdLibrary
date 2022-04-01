@@ -2,5 +2,17 @@
 build-by-default: true
 branches:
 - main
-projects: []
+projects: 
+  FdLibrary:
+    libs:
+      - src: jojoe77777/FormAPI/libFormAPI
+        version: ^2.1.0
+      - src: dktapps/pmforms/pmforms
+        version: ^2.0.0
+      - src: pjz9n-pm-pl/libi18n/libi18n
+        version: ^1.0.3
+      - src: CortexPE/Commando/Commando
+        version: ^3.0.0
+      - src: muqsit/simplepackethandler/SimplePacketHandler
+        version: ^0.1.0
 ...
