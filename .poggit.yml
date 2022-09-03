@@ -19,6 +19,6 @@ projects:
         version: ^0.1.0
       - src: DaisukeDaisukeTeam/Flowy/Standard
         version: ^0.1.0
-      - src: dktapps/pmforms/dktapps-pm-pl
+      - src: dktapps-pm-pl/pmforms/pmforms
         version: ^2.0.0
 ...
