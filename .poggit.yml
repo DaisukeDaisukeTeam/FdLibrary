@@ -22,5 +22,7 @@ projects:
       - src: dktapps-pm-pl/pmforms/pmforms
         version: ^2.0.0
       - src: SOF3/await-generator/await-generator
-        version: ^3.4.2
+        version: ^3.4.3
+      - src: SOF3/await-std/await-std
+        version: 0.2.0
 ...
